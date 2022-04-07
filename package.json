@@ -49,6 +49,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.16.11",
-    "copy-webpack-plugin": "^10.2.4"
+    "copy-webpack-plugin": "^10.2.4",
+    "normalize.css": "^8.0.1"
   }
 }
